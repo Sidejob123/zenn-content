@@ -10,4 +10,11 @@ chapters:
   - intro
   - ch1-zokujinka
   - ch2-naming-template
+  - ch3-before-build
+  - ch4-production-mistakes
+  - ch5-approval
+  - ch6-silent-failure
+  - ch7-external-api
+  - ch8-inventory-handover
+  - appendix-checklist
 toc_depth: 2
